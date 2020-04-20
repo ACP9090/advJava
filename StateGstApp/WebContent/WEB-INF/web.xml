@@ -1,0 +1,8 @@
+<web-app>
+
+  <display-name>StateGstApp</display-name>
+  <welcome-file-list>
+    <welcome-file>check.html</welcome-file>
+  </welcome-file-list>
+  
+</web-app>
